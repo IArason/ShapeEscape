@@ -1,0 +1,356 @@
+{
+  "$type": "ColorManager+SerializedThemeCollection, Assembly-CSharp",
+  "themes": {
+    "$type": "ColorTheme+Serialized[], Assembly-CSharp",
+    "$values": [
+      {
+        "$type": "ColorTheme+Serialized, Assembly-CSharp",
+        "colors": {
+          "$type": "SerializedVector3[], Assembly-CSharp",
+          "$values": [
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.411764741,
+              "yPos": 0.8235295,
+              "zPos": 0.9058824
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.654902,
+              "yPos": 0.8588236,
+              "zPos": 0.8470589
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.878431439,
+              "yPos": 0.8941177,
+              "zPos": 0.8000001
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.1868512,
+              "yPos": 0.7058823,
+              "zPos": 0.675938368
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.411764741,
+              "yPos": 0.8235295,
+              "zPos": 0.9058824
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.654902,
+              "yPos": 0.8588236,
+              "zPos": 0.8470589
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.9803922,
+              "yPos": 0.411764741,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.654902,
+              "yPos": 0.8588236,
+              "zPos": 0.8470589
+            }
+          ]
+        },
+        "material": "PolygonShapesA",
+        "name": "Goldfish"
+      },
+      {
+        "$type": "ColorTheme+Serialized, Assembly-CSharp",
+        "colors": {
+          "$type": "SerializedVector3[], Assembly-CSharp",
+          "$values": [
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.5137255,
+              "yPos": 0.6862745,
+              "zPos": 0.607843161
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.7843138,
+              "yPos": 0.7843138,
+              "zPos": 0.6627451
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.976470649,
+              "yPos": 0.80392164,
+              "zPos": 0.6784314
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.5137255,
+              "yPos": 0.6862745,
+              "zPos": 0.607843161
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.7843138,
+              "yPos": 0.7843138,
+              "zPos": 0.6627451
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.976470649,
+              "yPos": 0.80392164,
+              "zPos": 0.6784314
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.9960785,
+              "yPos": 0.2627451,
+              "zPos": 0.396078467
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.897058845,
+              "yPos": 0.8522059,
+              "zPos": 0.7849265
+            }
+          ]
+        },
+        "material": "PolygonFlowersA",
+        "name": "Soft Cherry"
+      },
+      {
+        "$type": "ColorTheme+Serialized, Assembly-CSharp",
+        "colors": {
+          "$type": "SerializedVector3[], Assembly-CSharp",
+          "$values": [
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.0,
+              "yPos": 0.549019635,
+              "zPos": 0.619607866
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.0,
+              "yPos": 0.372549027,
+              "zPos": 0.419607878
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.203921586,
+              "yPos": 0.21960786,
+              "zPos": 0.21960786
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.203921586,
+              "yPos": 0.21960786,
+              "zPos": 0.21960786
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.0,
+              "yPos": 0.372549027,
+              "zPos": 0.419607878
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.0,
+              "yPos": 0.549019635,
+              "zPos": 0.619607866
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.0,
+              "yPos": 0.8745099,
+              "zPos": 0.988235354
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.0,
+              "yPos": 0.372549027,
+              "zPos": 0.419607878
+            }
+          ]
+        },
+        "material": "PolygonShapesC",
+        "name": "Deep Ocean"
+      },
+      {
+        "$type": "ColorTheme+Serialized, Assembly-CSharp",
+        "colors": {
+          "$type": "SerializedVector3[], Assembly-CSharp",
+          "$values": [
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.376297563,
+              "yPos": 0.631070137,
+              "zPos": 0.882352948
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.254108965,
+              "yPos": 0.277544439,
+              "zPos": 0.7352941
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.456747383,
+              "yPos": 0.8209045,
+              "zPos": 0.9411765
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.9294118,
+              "yPos": 1.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 1.0,
+              "yPos": 0.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 1.0,
+              "yPos": 0.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.9294118,
+              "yPos": 1.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.9303621,
+              "yPos": 1.0,
+              "zPos": 0.0
+            }
+          ]
+        },
+        "material": "PolygonShapesC",
+        "name": "brum1"
+      },
+      {
+        "$type": "ColorTheme+Serialized, Assembly-CSharp",
+        "colors": {
+          "$type": "SerializedVector3[], Assembly-CSharp",
+          "$values": [
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.247058839,
+              "yPos": 0.721568644,
+              "zPos": 0.6862745
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 1.0,
+              "yPos": 0.619607866,
+              "zPos": 0.6156863
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.992647052,
+              "yPos": 0.613105536,
+              "zPos": 0.7422279
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.854902,
+              "yPos": 0.8470589,
+              "zPos": 0.654902
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.498039246,
+              "yPos": 0.7803922,
+              "zPos": 0.6862745
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.247058839,
+              "yPos": 0.721568644,
+              "zPos": 0.6862745
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 1.0,
+              "yPos": 0.2392157,
+              "zPos": 0.498039246
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 1.0,
+              "yPos": 0.6911765,
+              "zPos": 0.825354934
+            }
+          ]
+        },
+        "material": "PolygonFlowersB",
+        "name": "Neon Popsicle"
+      },
+      {
+        "$type": "ColorTheme+Serialized, Assembly-CSharp",
+        "colors": {
+          "$type": "SerializedVector3[], Assembly-CSharp",
+          "$values": [
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.7960785,
+              "yPos": 0.909804,
+              "zPos": 0.419607878
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.882353,
+              "yPos": 0.9490197,
+              "zPos": 0.8938473
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.3647059,
+              "yPos": 0.419607878,
+              "zPos": 0.180392161
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.9490197,
+              "yPos": 0.913725555,
+              "zPos": 0.882353
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.7960785,
+              "yPos": 0.909804,
+              "zPos": 0.419607878
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.3640653,
+              "yPos": 0.41911763,
+              "zPos": 0.18182309
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.392336816,
+              "yPos": 0.8897059,
+              "zPos": 0.196258634
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 0.8595372,
+              "yPos": 0.9191176,
+              "zPos": 0.662305355
+            }
+          ]
+        },
+        "material": "PolygonFlowersA",
+        "name": "Kiwi"
+      }
+    ]
+  }
+}

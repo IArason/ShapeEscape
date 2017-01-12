@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 70fd5b6259f56714c9bb456536004f32
+timeCreated: 1460993181
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: hazards
+    100002: level2_crusher1
+    100004: level2_crusher2
+    100006: level2_elevator_scalethis
+    100008: //RootNode
+    100010: level2_lava1
+    100012: level2_lava2
+    100014: level2_lava3
+    100016: level2_lava4
+    100018: level2_lava5
+    100020: level2_lava6
+    100022: level2_lava7
+    100024: level2_main
+    100026: level2_movingplatform
+    100028: level2_movingplatform2
+    100030: level2_movingplatform3
+    100032: level2_spike1
+    100034: level2_spike2
+    100036: level2_spike3
+    100038: level2exit
+    100040: movingplatforms
+    400000: hazards
+    400002: level2_crusher1
+    400004: level2_crusher2
+    400006: level2_elevator_scalethis
+    400008: //RootNode
+    400010: level2_lava1
+    400012: level2_lava2
+    400014: level2_lava3
+    400016: level2_lava4
+    400018: level2_lava5
+    400020: level2_lava6
+    400022: level2_lava7
+    400024: level2_main
+    400026: level2_movingplatform
+    400028: level2_movingplatform2
+    400030: level2_movingplatform3
+    400032: level2_spike1
+    400034: level2_spike2
+    400036: level2_spike3
+    400038: level2exit
+    400040: movingplatforms
+    2300000: level2_crusher1
+    2300002: level2_crusher2
+    2300004: level2_elevator_scalethis
+    2300006: level2_lava1
+    2300008: level2_lava2
+    2300010: level2_lava3
+    2300012: level2_lava4
+    2300014: level2_lava5
+    2300016: level2_lava6
+    2300018: level2_lava7
+    2300020: level2_main
+    2300022: level2_movingplatform
+    2300024: level2_movingplatform2
+    2300026: level2_movingplatform3
+    2300028: level2_spike1
+    2300030: level2_spike2
+    2300032: level2_spike3
+    2300034: level2exit
+    3300000: level2_crusher1
+    3300002: level2_crusher2
+    3300004: level2_elevator_scalethis
+    3300006: level2_lava1
+    3300008: level2_lava2
+    3300010: level2_lava3
+    3300012: level2_lava4
+    3300014: level2_lava5
+    3300016: level2_lava6
+    3300018: level2_lava7
+    3300020: level2_main
+    3300022: level2_movingplatform
+    3300024: level2_movingplatform2
+    3300026: level2_movingplatform3
+    3300028: level2_spike1
+    3300030: level2_spike2
+    3300032: level2_spike3
+    3300034: level2exit
+    4300000: level2_main
+    4300002: level2exit
+    4300004: level2_lava2
+    4300006: level2_lava1
+    4300008: level2_lava5
+    4300010: level2_lava4
+    4300012: level2_lava3
+    4300014: level2_lava7
+    4300016: level2_lava6
+    4300018: level2_spike3
+    4300020: level2_crusher2
+    4300022: level2_spike2
+    4300024: level2_crusher1
+    4300026: level2_spike1
+    4300028: level2_elevator_scalethis
+    4300030: level2_movingplatform3
+    4300032: level2_movingplatform2
+    4300034: level2_movingplatform
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 344
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

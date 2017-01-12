@@ -1,0 +1,564 @@
+{
+  "$type": "Level, Assembly-CSharp",
+  "sceneEntities": {
+    "$type": "LevelEntity+Serialized[], Assembly-CSharp",
+    "$values": [
+      {
+        "$type": "LevelEntity+Serialized, Assembly-CSharp",
+        "instanceID": 0,
+        "prefabPath": "LevelEditor/Polygon/Square",
+        "posX": 28.0,
+        "posY": -3.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "rotW": 1.0
+      },
+      {
+        "$type": "LevelEntity+Serialized, Assembly-CSharp",
+        "instanceID": 1,
+        "prefabPath": "LevelEditor/Polygon/Square",
+        "posX": 30.0,
+        "posY": 4.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "rotW": 1.0
+      },
+      {
+        "$type": "LevelEntity+Serialized, Assembly-CSharp",
+        "instanceID": 2,
+        "prefabPath": "LevelEditor/Polygon/Square",
+        "posX": -1.0,
+        "posY": 0.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "rotW": 1.0
+      },
+      {
+        "$type": "LevelEntity+Serialized, Assembly-CSharp",
+        "instanceID": 3,
+        "prefabPath": "LevelEditor/Dynamic/MoverTest",
+        "posX": 17.0,
+        "posY": 3.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "rotW": 1.0
+      },
+      {
+        "$type": "LevelEntity+Serialized, Assembly-CSharp",
+        "instanceID": 4,
+        "prefabPath": "LevelEditor/Dynamic/PushButton",
+        "posX": 2.0,
+        "posY": -1.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "rotW": 1.0
+      },
+      {
+        "$type": "LevelEntity+Serialized, Assembly-CSharp",
+        "instanceID": 5,
+        "prefabPath": "LevelEditor/Hazard/Lava",
+        "posX": 28.0,
+        "posY": -2.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "rotW": 1.0
+      },
+      {
+        "$type": "LevelEntity+Serialized, Assembly-CSharp",
+        "instanceID": 6,
+        "prefabPath": "LevelEditor/Hazard/CrusherLarge",
+        "posX": 13.0,
+        "posY": 5.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": -1.7881392E-07,
+        "rotZ": 0.0,
+        "rotW": -1.0
+      },
+      {
+        "$type": "LevelEntity+Serialized, Assembly-CSharp",
+        "instanceID": 7,
+        "prefabPath": "LevelEditor/Special/WinZone",
+        "posX": 22.0,
+        "posY": -2.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "rotW": 1.0
+      },
+      {
+        "$type": "LevelEntity+Serialized, Assembly-CSharp",
+        "instanceID": 8,
+        "prefabPath": "LevelEditor/Special/PlayerSpawn",
+        "posX": 8.0,
+        "posY": 0.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "rotW": 1.0
+      },
+      {
+        "$type": "LevelEntity+Serialized, Assembly-CSharp",
+        "instanceID": 9,
+        "prefabPath": "LevelEditor/Hazard/CrusherMedium",
+        "posX": 0.0,
+        "posY": 10.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "rotW": 1.0
+      },
+      {
+        "$type": "LevelEntity+Serialized, Assembly-CSharp",
+        "instanceID": 10,
+        "prefabPath": "LevelEditor/Hazard/CrusherSmall",
+        "posX": -3.0,
+        "posY": 10.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "rotW": 1.0
+      },
+      {
+        "$type": "LevelEntity+Serialized, Assembly-CSharp",
+        "instanceID": 11,
+        "prefabPath": "LevelEditor/Polygon/Square",
+        "posX": 12.0,
+        "posY": -2.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "rotW": 1.0
+      },
+      {
+        "$type": "LevelEntity+Serialized, Assembly-CSharp",
+        "instanceID": 12,
+        "prefabPath": "LevelEditor/Dynamic/SpinnerTest",
+        "posX": -7.0,
+        "posY": -4.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "rotW": 1.0
+      },
+      {
+        "$type": "LevelEntity+Serialized, Assembly-CSharp",
+        "instanceID": 13,
+        "prefabPath": "LevelEditor/Dynamic/TriggerArea",
+        "posX": 5.0,
+        "posY": 9.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "rotW": 1.0
+      }
+    ]
+  },
+  "sceneComponents": {
+    "$type": "LevelEntityAttribute+Serialized[], Assembly-CSharp",
+    "$values": [
+      {
+        "$type": "Polygon+SerializedPolygon, Assembly-CSharp",
+        "vertices": {
+          "$type": "SerializedVector3[], Assembly-CSharp",
+          "$values": [
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": -1.0,
+              "yPos": 0.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": -1.0,
+              "yPos": 1.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 1.0,
+              "yPos": 1.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 1.0,
+              "yPos": 0.0,
+              "zPos": 0.0
+            }
+          ]
+        },
+        "parentID": 0,
+        "targetIDs": null
+      },
+      {
+        "$type": "Polygon+SerializedPolygon, Assembly-CSharp",
+        "vertices": {
+          "$type": "SerializedVector3[], Assembly-CSharp",
+          "$values": [
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": -1.0,
+              "yPos": -7.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": -1.0,
+              "yPos": 8.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 1.0,
+              "yPos": 8.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 1.0,
+              "yPos": -7.0,
+              "zPos": 0.0
+            }
+          ]
+        },
+        "parentID": 1,
+        "targetIDs": null
+      },
+      {
+        "$type": "Polygon+SerializedPolygon, Assembly-CSharp",
+        "vertices": {
+          "$type": "SerializedVector3[], Assembly-CSharp",
+          "$values": [
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": -1.0,
+              "yPos": -1.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": -1.0,
+              "yPos": 11.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 1.0,
+              "yPos": 11.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 1.0,
+              "yPos": -1.0,
+              "zPos": 0.0
+            }
+          ]
+        },
+        "parentID": 2,
+        "targetIDs": null
+      },
+      {
+        "$type": "Mover+SerializedMover, Assembly-CSharp",
+        "poses": {
+          "$type": "SerializedVector3[], Assembly-CSharp",
+          "$values": [
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 17.0,
+              "yPos": 3.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 13.0,
+              "yPos": 3.0,
+              "zPos": -3.5
+            }
+          ]
+        },
+        "rots": {
+          "$type": "SerializedQuaternion[], Assembly-CSharp",
+          "$values": [
+            {
+              "$type": "SerializedQuaternion, Assembly-CSharp",
+              "xRot": 0.0,
+              "yRot": 0.0,
+              "zRot": 0.0,
+              "wRot": 1.0
+            },
+            {
+              "$type": "SerializedQuaternion, Assembly-CSharp",
+              "xRot": 0.0,
+              "yRot": 0.0,
+              "zRot": 0.0,
+              "wRot": 1.0
+            }
+          ]
+        },
+        "speed": 5.0,
+        "stopTime": 0.5,
+        "interruptable": false,
+        "alwaysOn": false,
+        "autoReturn": true,
+        "activationDelay": 0.0,
+        "parentID": 3,
+        "targetIDs": null
+      },
+      {
+        "$type": "PushButton+SerializedPushButton, Assembly-CSharp",
+        "stiffness": 5.0,
+        "resetTime": 1.0,
+        "canReset": true,
+        "parentID": 4,
+        "targetIDs": null
+      },
+      {
+        "$type": "Trigger+SerializedTrigger, Assembly-CSharp",
+        "connectedObjects": {
+          "$type": "System.Int32[], mscorlib",
+          "$values": [
+            3
+          ]
+        },
+        "parentID": 4,
+        "targetIDs": null
+      },
+      {
+        "$type": "Polygon+SerializedPolygon, Assembly-CSharp",
+        "vertices": {
+          "$type": "SerializedVector3[], Assembly-CSharp",
+          "$values": [
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": -1.16765022,
+              "yPos": -0.49704504,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": -1.16765022,
+              "yPos": 0.50295496,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 1.83234978,
+              "yPos": 0.50295496,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 1.83234978,
+              "yPos": -0.49704504,
+              "zPos": 0.0
+            }
+          ]
+        },
+        "parentID": 5,
+        "targetIDs": null
+      },
+      {
+        "$type": "Crusher+SerializedCrusher, Assembly-CSharp",
+        "frequency": 0.278409332,
+        "length": 6.00000048,
+        "startOn": true,
+        "speed": 0.5501896,
+        "parentID": 6,
+        "targetIDs": null
+      },
+      {
+        "$type": "PlayerSpawner+SerializedPlayerSpawner, Assembly-CSharp",
+        "parentID": 8,
+        "targetIDs": null
+      },
+      {
+        "$type": "Crusher+SerializedCrusher, Assembly-CSharp",
+        "frequency": 0.5,
+        "length": -0.1,
+        "startOn": true,
+        "speed": 1.0,
+        "parentID": 9,
+        "targetIDs": null
+      },
+      {
+        "$type": "Crusher+SerializedCrusher, Assembly-CSharp",
+        "frequency": 0.5,
+        "length": 9.9,
+        "startOn": true,
+        "speed": 1.0,
+        "parentID": 10,
+        "targetIDs": null
+      },
+      {
+        "$type": "Polygon+SerializedPolygon, Assembly-CSharp",
+        "vertices": {
+          "$type": "SerializedVector3[], Assembly-CSharp",
+          "$values": [
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": -14.0,
+              "yPos": -1.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": -14.0,
+              "yPos": 1.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 15.0,
+              "yPos": 1.0,
+              "zPos": 0.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 15.0,
+              "yPos": -1.0,
+              "zPos": 0.0
+            }
+          ]
+        },
+        "parentID": 11,
+        "targetIDs": null
+      },
+      {
+        "$type": "Spinner+SerializedSpinner, Assembly-CSharp",
+        "speed": 1.0,
+        "flippedRotation": false,
+        "startOn": true,
+        "parentID": 12,
+        "targetIDs": null
+      },
+      {
+        "$type": "TriggerArea+SerializedTriggerArea, Assembly-CSharp",
+        "cooldown": 0.0,
+        "parentID": 13,
+        "targetIDs": null
+      },
+      {
+        "$type": "Trigger+SerializedTrigger, Assembly-CSharp",
+        "connectedObjects": {
+          "$type": "System.Int32[], mscorlib",
+          "$values": []
+        },
+        "parentID": 13,
+        "targetIDs": null
+      },
+      {
+        "$type": "Polygon+SerializedPolygon, Assembly-CSharp",
+        "vertices": {
+          "$type": "SerializedVector3[], Assembly-CSharp",
+          "$values": [
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": -1.0,
+              "yPos": -1.0,
+              "zPos": -1.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": -1.0,
+              "yPos": 1.0,
+              "zPos": -1.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 1.0,
+              "yPos": 1.0,
+              "zPos": -1.0
+            },
+            {
+              "$type": "SerializedVector3, Assembly-CSharp",
+              "xPos": 1.0,
+              "yPos": -1.0,
+              "zPos": -1.0
+            }
+          ]
+        },
+        "parentID": 13,
+        "targetIDs": null
+      }
+    ]
+  },
+  "levelColorTheme": {
+    "$type": "ColorTheme+Serialized, Assembly-CSharp",
+    "colors": {
+      "$type": "SerializedVector3[], Assembly-CSharp",
+      "$values": [
+        {
+          "$type": "SerializedVector3, Assembly-CSharp",
+          "xPos": 0.5137255,
+          "yPos": 0.6862745,
+          "zPos": 0.607843161
+        },
+        {
+          "$type": "SerializedVector3, Assembly-CSharp",
+          "xPos": 0.7843138,
+          "yPos": 0.7843138,
+          "zPos": 0.6627451
+        },
+        {
+          "$type": "SerializedVector3, Assembly-CSharp",
+          "xPos": 0.976470649,
+          "yPos": 0.80392164,
+          "zPos": 0.6784314
+        },
+        {
+          "$type": "SerializedVector3, Assembly-CSharp",
+          "xPos": 0.5137255,
+          "yPos": 0.6862745,
+          "zPos": 0.607843161
+        },
+        {
+          "$type": "SerializedVector3, Assembly-CSharp",
+          "xPos": 0.7843138,
+          "yPos": 0.7843138,
+          "zPos": 0.6627451
+        },
+        {
+          "$type": "SerializedVector3, Assembly-CSharp",
+          "xPos": 0.976470649,
+          "yPos": 0.80392164,
+          "zPos": 0.6784314
+        },
+        {
+          "$type": "SerializedVector3, Assembly-CSharp",
+          "xPos": 0.9960785,
+          "yPos": 0.2627451,
+          "zPos": 0.396078467
+        },
+        {
+          "$type": "SerializedVector3, Assembly-CSharp",
+          "xPos": 0.897058845,
+          "yPos": 0.8522059,
+          "zPos": 0.7849265
+        }
+      ]
+    },
+    "material": "PolygonFlowersA"
+  },
+  "levelName": "Level 7"
+}

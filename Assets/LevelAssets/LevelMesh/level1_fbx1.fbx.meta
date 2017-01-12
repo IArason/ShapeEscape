@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 7a54e0ed58eba0f4fbbae160a01bbb13
+timeCreated: 1460928011
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cylinderblocker
+    100002: exit
+    100004: floatblock1
+    100006: floatblock2
+    100008: floatblock3
+    100010: floatblock4
+    100012: hazards
+    100014: lava1
+    100016: lava2
+    100018: lava3
+    100020: //RootNode
+    100022: maingeometry
+    100024: spike1
+    100026: spike2
+    100028: static
+    400000: cylinderblocker
+    400002: exit
+    400004: floatblock1
+    400006: floatblock2
+    400008: floatblock3
+    400010: floatblock4
+    400012: hazards
+    400014: lava1
+    400016: lava2
+    400018: lava3
+    400020: //RootNode
+    400022: maingeometry
+    400024: spike1
+    400026: spike2
+    400028: static
+    2300000: cylinderblocker
+    2300002: exit
+    2300004: floatblock1
+    2300006: floatblock2
+    2300008: floatblock3
+    2300010: floatblock4
+    2300012: lava1
+    2300014: lava2
+    2300016: lava3
+    2300018: maingeometry
+    2300020: spike1
+    2300022: spike2
+    3300000: cylinderblocker
+    3300002: exit
+    3300004: floatblock1
+    3300006: floatblock2
+    3300008: floatblock3
+    3300010: floatblock4
+    3300012: lava1
+    3300014: lava2
+    3300016: lava3
+    3300018: maingeometry
+    3300020: spike1
+    3300022: spike2
+    4300000: exit
+    4300002: lava3
+    4300004: lava2
+    4300006: lava1
+    4300008: spike2
+    4300010: spike1
+    4300012: cylinderblocker
+    4300014: floatblock4
+    4300016: floatblock3
+    4300018: floatblock2
+    4300020: floatblock1
+    4300022: maingeometry
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 222.7
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

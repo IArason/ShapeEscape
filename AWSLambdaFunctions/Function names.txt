@@ -1,0 +1,32 @@
+SetOrUpdatePlayerName
+    sets or updates the player's name
+    returns {['Sucess']} or {['Failure']}
+    
+GetPlayerName
+    gets the player name - only for self as ID needs to be passed
+    returns {['Failure']} or {[PlayerName]}
+    
+AddOrUpdateLevel (PlayerID, LevelName, LevelData)
+    uploads a level. If level exist and playerID doesn't match, return error.
+    returns {['Failure']} or {[LevelID]}
+ 
+GetPlayerLevels (PlayerID)
+    gets all the levels owned by PlayerID
+    
+DeleteLevel (LevelID, PlayerID)
+    deletes a level
+    
+GetLevels ()
+    gets first handful of levels
+    
+GetLevelData (LevelID)
+    downloads the data of a level
+
+AddOrUpdatePlaythrough (LevelID, PlayerID, [ BestTime, TotalDeaths, BestPlaythroughData ])
+    adds or updates a playthrough entry
+
+AddOrUpdateRating (LevelID, PlayerID)
+    adds or updates a rating
+    
+GetShareableLink (LevelID)
+    generates or gets a shareable link for a level

@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 4b0f4bfc3112f874bae8770dff1af033
+timeCreated: 1467315425
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: eyeL
+    100002: eyeL1
+    100004: eyeL10
+    100006: eyeL2
+    100008: eyeL3
+    100010: eyeL4
+    100012: eyeL5
+    100014: eyeL6
+    100016: eyeL7
+    100018: eyeL8
+    100020: eyeL9
+    100022: eyemesh
+    100024: eyemesh 1
+    100026: eyeR
+    100028: eyeR1
+    100030: eyeR10
+    100032: eyeR2
+    100034: eyeR3
+    100036: eyeR4
+    100038: eyeR5
+    100040: eyeR6
+    100042: eyeR7
+    100044: eyeR8
+    100046: eyeR9
+    100048: //RootNode
+    100050: faces
+    100052: irismesh
+    100054: irismesh 1
+    100056: mainface
+    100058: mainface1
+    100060: mainface10
+    100062: mainface2
+    100064: mainface3
+    100066: mainface4
+    100068: mainface5
+    100070: mainface6
+    100072: mainface7
+    100074: mainface8
+    100076: mainface9
+    100078: mouth
+    100080: mouth1
+    100082: mouth10
+    100084: mouth2
+    100086: mouth3
+    100088: mouth4
+    100090: mouth5
+    100092: mouth6
+    100094: mouth7
+    100096: mouth8
+    100098: mouth9
+    100100: mouthmesh
+    400000: eyeL
+    400002: eyeL1
+    400004: eyeL10
+    400006: eyeL2
+    400008: eyeL3
+    400010: eyeL4
+    400012: eyeL5
+    400014: eyeL6
+    400016: eyeL7
+    400018: eyeL8
+    400020: eyeL9
+    400022: eyemesh
+    400024: eyemesh 1
+    400026: eyeR
+    400028: eyeR1
+    400030: eyeR10
+    400032: eyeR2
+    400034: eyeR3
+    400036: eyeR4
+    400038: eyeR5
+    400040: eyeR6
+    400042: eyeR7
+    400044: eyeR8
+    400046: eyeR9
+    400048: //RootNode
+    400050: faces
+    400052: irismesh
+    400054: irismesh 1
+    400056: mainface
+    400058: mainface1
+    400060: mainface10
+    400062: mainface2
+    400064: mainface3
+    400066: mainface4
+    400068: mainface5
+    400070: mainface6
+    400072: mainface7
+    400074: mainface8
+    400076: mainface9
+    400078: mouth
+    400080: mouth1
+    400082: mouth10
+    400084: mouth2
+    400086: mouth3
+    400088: mouth4
+    400090: mouth5
+    400092: mouth6
+    400094: mouth7
+    400096: mouth8
+    400098: mouth9
+    400100: mouthmesh
+    4300000: mouthmesh
+    4300002: eyemesh
+    4300004: irismesh
+    4300006: eyemesh
+    4300008: irismesh
+    9500000: //RootNode
+    13700000: eyemesh
+    13700002: eyemesh 1
+    13700004: irismesh
+    13700006: irismesh 1
+    13700008: mouthmesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 15
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

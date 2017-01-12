@@ -1,0 +1,24 @@
+@echo off
+echo SetOrUpdatePlayerName.py
+C:\Python27\python.exe SetOrUpdatePlayerName.py
+echo GetPlayerName.py
+C:\Python27\python.exe GetPlayerName.py
+echo AddOrUpdateLevel.py
+C:\Python27\python.exe AddOrUpdateLevel.py
+echo GetPlayerLevels.py
+C:\Python27\python.exe GetPlayerLevels.py
+echo DeleteLevel.py
+C:\Python27\python.exe DeleteLevel.py
+echo GetLevels.py
+C:\Python27\python.exe GetLevels.py
+echo GetLevelData.py
+C:\Python27\python.exe GetLevelData.py
+echo AddOrUpdatePlaythrough.py
+C:\Python27\python.exe AddOrUpdatePlaythrough.py
+echo AddOrUpdateRating.py
+C:\Python27\python.exe AddOrUpdateRating.py
+echo GetShareableLink.py
+C:\Python27\python.exe GetShareableLink.py
+echo GetLevelFromShareableLink.py
+C:\Python27\python.exe GetLevelFromShareableLink.py
+pause
